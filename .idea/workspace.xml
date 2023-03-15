@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77ab1b1f-2c9f-4e1e-9a21-2d6925374892" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT2_TriangleClassifier/TriangleClassifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT2_TriangleClassifier/TriangleClassifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT3_FizzBuzz/FizzBuzzTranslate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT3_FizzBuzz/FizzBuzzTranslateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,85 +60,87 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Rikkei.academy.BT3_FizzBuzz" />
       <recent name="Rikkei.academy.BT2_TriangleClassifier" />
       <recent name="Rikkei.academy.BT1_NextDayCalculator" />
       <recent name="Rikkei.academy.TH2_AbsoluteValue" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TriangleClassifierTest">
-    <configuration name="NextDayCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FizzBuzzTranslateTest">
+    <configuration name="FizzBuzzTranslateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MD3-SS9-AutomatedTestingTDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rikkei.academy.BT1_NextDayCalculator.*" />
+          <option name="PATTERN" value="Rikkei.academy.BT3_FizzBuzz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Rikkei.academy.BT1_NextDayCalculator" />
-      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.BT1_NextDayCalculator.NextDayCalculatorTest" />
+      <option name="PACKAGE_NAME" value="Rikkei.academy.BT3_FizzBuzz" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.BT3_FizzBuzz.FizzBuzzTranslateTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextDayCalculatorTest.calNextDay01012018" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTranslateTest.translateNumberPro26" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MD3-SS9-AutomatedTestingTDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rikkei.academy.BT1_NextDayCalculator.*" />
+          <option name="PATTERN" value="Rikkei.academy.BT3_FizzBuzz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Rikkei.academy.BT1_NextDayCalculator" />
-      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.BT1_NextDayCalculator.NextDayCalculatorTest" />
-      <option name="METHOD_NAME" value="calNextDay01012018" />
+      <option name="PACKAGE_NAME" value="Rikkei.academy.BT3_FizzBuzz" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.BT3_FizzBuzz.FizzBuzzTranslateTest" />
+      <option name="METHOD_NAME" value="translateNumberPro26" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextDayCalculatorTest.calNextDay31012018" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTranslateTest.translateNumberPro35" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MD3-SS9-AutomatedTestingTDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rikkei.academy.BT1_NextDayCalculator.*" />
+          <option name="PATTERN" value="Rikkei.academy.BT3_FizzBuzz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Rikkei.academy.BT1_NextDayCalculator" />
-      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.BT1_NextDayCalculator.NextDayCalculatorTest" />
-      <option name="METHOD_NAME" value="calNextDay31012018" />
+      <option name="PACKAGE_NAME" value="Rikkei.academy.BT3_FizzBuzz" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.BT3_FizzBuzz.FizzBuzzTranslateTest" />
+      <option name="METHOD_NAME" value="translateNumberPro35" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleClassifierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTranslateTest.translateNumberPro50" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MD3-SS9-AutomatedTestingTDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rikkei.academy.BT2_TriangleClassifier.*" />
+          <option name="PATTERN" value="Rikkei.academy.BT3_FizzBuzz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Rikkei.academy.BT2_TriangleClassifier" />
-      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.BT2_TriangleClassifier.TriangleClassifierTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="Rikkei.academy.BT3_FizzBuzz" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.BT3_FizzBuzz.FizzBuzzTranslateTest" />
+      <option name="METHOD_NAME" value="translateNumberPro50" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleClassifierTest.testIsNotATriangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTranslateTest.translateNumberPro60" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MD3-SS9-AutomatedTestingTDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rikkei.academy.BT2_TriangleClassifier.*" />
+          <option name="PATTERN" value="Rikkei.academy.BT3_FizzBuzz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Rikkei.academy.BT2_TriangleClassifier" />
-      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.BT2_TriangleClassifier.TriangleClassifierTest" />
-      <option name="METHOD_NAME" value="testIsNotATriangle" />
+      <option name="PACKAGE_NAME" value="Rikkei.academy.BT3_FizzBuzz" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.BT3_FizzBuzz.FizzBuzzTranslateTest" />
+      <option name="METHOD_NAME" value="translateNumberPro60" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TriangleClassifierTest" />
-        <item itemvalue="JUnit.TriangleClassifierTest.testIsNotATriangle" />
-        <item itemvalue="JUnit.NextDayCalculatorTest" />
-        <item itemvalue="JUnit.NextDayCalculatorTest.calNextDay31012018" />
-        <item itemvalue="JUnit.NextDayCalculatorTest.calNextDay01012018" />
+        <item itemvalue="JUnit.FizzBuzzTranslateTest" />
+        <item itemvalue="JUnit.FizzBuzzTranslateTest.translateNumberPro26" />
+        <item itemvalue="JUnit.FizzBuzzTranslateTest.translateNumberPro60" />
+        <item itemvalue="JUnit.FizzBuzzTranslateTest.translateNumberPro50" />
+        <item itemvalue="JUnit.FizzBuzzTranslateTest.translateNumberPro35" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +168,7 @@
       <workItem from="1678689347316" duration="601000" />
       <workItem from="1678692859214" duration="4921000" />
       <workItem from="1678781735432" duration="649000" />
-      <workItem from="1678850884657" duration="5730000" />
+      <workItem from="1678850884657" duration="8358000" />
     </task>
     <servers />
   </component>
