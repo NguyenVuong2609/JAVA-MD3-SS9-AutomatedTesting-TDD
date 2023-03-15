@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77ab1b1f-2c9f-4e1e-9a21-2d6925374892" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD3-SS9-AutomatedTestingTDD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH1_Calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH1_Calculator/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH2_AbsoluteValue/AbsoluteValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH2_AbsoluteValue/AbsoluteValueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT1_NextDayCalculator/NextDayCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT1_NextDayCalculator/NextDayCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,95 +31,111 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "D:/Java/MD3-SS9-AutomatedTestingTDD",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/MD3-SS9-AutomatedTestingTDD&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Rikkei.academy.BT1_NextDayCalculator" />
       <recent name="Rikkei.academy.TH2_AbsoluteValue" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AbsoluteValueTest">
-    <configuration name="AbsoluteValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.NextDayCalculatorTest">
+    <configuration name="NextDayCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.BT1_NextDayCalculator.NextDayCalculator" />
       <module name="MD3-SS9-AutomatedTestingTDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rikkei.academy.TH2_AbsoluteValue.*" />
+          <option name="PATTERN" value="Rikkei.academy.BT1_NextDayCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Rikkei.academy.TH2_AbsoluteValue" />
-      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH2_AbsoluteValue.AbsoluteValueTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextDayCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MD3-SS9-AutomatedTestingTDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.academy.BT1_NextDayCalculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Rikkei.academy.BT1_NextDayCalculator" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.BT1_NextDayCalculator.NextDayCalculatorTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AbsoluteValueTest.findAbsolute0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NextDayCalculatorTest.calNextDay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MD3-SS9-AutomatedTestingTDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rikkei.academy.TH2_AbsoluteValue.*" />
+          <option name="PATTERN" value="Rikkei.academy.BT1_NextDayCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Rikkei.academy.TH2_AbsoluteValue" />
-      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH2_AbsoluteValue.AbsoluteValueTest" />
-      <option name="METHOD_NAME" value="findAbsolute0" />
+      <option name="PACKAGE_NAME" value="Rikkei.academy.BT1_NextDayCalculator" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.BT1_NextDayCalculator.NextDayCalculatorTest" />
+      <option name="METHOD_NAME" value="calNextDay" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NextDayCalculatorTest.calNextDay01012018" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MD3-SS9-AutomatedTestingTDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rikkei.academy.TH1_Calculator.*" />
+          <option name="PATTERN" value="Rikkei.academy.BT1_NextDayCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Rikkei.academy.TH1_Calculator" />
-      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH1_Calculator.CalculatorTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="Rikkei.academy.BT1_NextDayCalculator" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.BT1_NextDayCalculator.NextDayCalculatorTest" />
+      <option name="METHOD_NAME" value="calNextDay01012018" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.testAdd0and0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NextDayCalculatorTest.calNextDay31012018" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MD3-SS9-AutomatedTestingTDD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rikkei.academy.TH1_Calculator.*" />
+          <option name="PATTERN" value="Rikkei.academy.BT1_NextDayCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Rikkei.academy.TH1_Calculator" />
-      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH1_Calculator.CalculatorTest" />
-      <option name="METHOD_NAME" value="testAdd0and0" />
+      <option name="PACKAGE_NAME" value="Rikkei.academy.BT1_NextDayCalculator" />
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.BT1_NextDayCalculator.NextDayCalculatorTest" />
+      <option name="METHOD_NAME" value="calNextDay31012018" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,10 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AbsoluteValueTest" />
-        <item itemvalue="JUnit.AbsoluteValueTest.findAbsolute0" />
-        <item itemvalue="JUnit.CalculatorTest" />
-        <item itemvalue="JUnit.CalculatorTest.testAdd0and0" />
+        <item itemvalue="JUnit.NextDayCalculatorTest" />
+        <item itemvalue="JUnit.NextDayCalculatorTest.calNextDay31012018" />
+        <item itemvalue="JUnit.NextDayCalculatorTest.calNextDay01012018" />
+        <item itemvalue="Application.NextDayCalculator" />
+        <item itemvalue="JUnit.NextDayCalculatorTest.calNextDay" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +161,9 @@
       <updated>1678677962836</updated>
       <workItem from="1678677964106" duration="611000" />
       <workItem from="1678689347316" duration="601000" />
-      <workItem from="1678692859214" duration="3832000" />
+      <workItem from="1678692859214" duration="4921000" />
+      <workItem from="1678781735432" duration="649000" />
+      <workItem from="1678850884657" duration="4089000" />
     </task>
     <servers />
   </component>
